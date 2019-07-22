@@ -1,0 +1,47 @@
+body{ 
+    background-color: turquoise; 
+    font-size: 150%;
+    padding-left: 11em
+}
+
+ul.barnav{ 
+    font-size: 100%; 
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+    position: absolute;
+    top: 3em;
+    left: 2em;
+    width: 9em
+    }
+ h1{ 
+
+    text-align: center;
+    font-family: cursive;
+    font-size: 150%;
+    color: purple
+ }
+ ul.barnav li { 
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid gold}
+
+    a:link {
+        color: green }
+    a:visited {
+        color: rgb(248, 95, 6) }
+
+    address {
+         margin-top: 1em;
+         padding-top: 1em;
+         border-top: thin dotted }
+        
+         h2{
+            font-family: 'Courier New', Courier, monospace;
+            color: darksalmon;
+            
+            }
+                
+               
+
